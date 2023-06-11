@@ -1,4 +1,4 @@
-ini adalah tugas
+ini adalah pengumpulan tugas
 
 ![Capture](https://github.com/diekasptn/tugasprakpbo/assets/135584342/902c3df8-b420-45de-91ad-c5eb1308e9f4)
 
