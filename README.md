@@ -1,4 +1,5 @@
-#pengumpulanss
+ini adalah tugas
+
 ![Capture](https://github.com/diekasptn/tugasprakpbo/assets/135584342/902c3df8-b420-45de-91ad-c5eb1308e9f4)
 
 ![2](https://github.com/diekasptn/tugasprakpbo/assets/135584342/47b6c84d-f127-4fe8-8b84-e971011149d2)
